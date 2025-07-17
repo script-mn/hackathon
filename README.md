@@ -6,6 +6,6 @@ Author-Mukesh
   <head>
     <title> This is my practice in gituhb
       <h1>Hey guys how are you </h1>
-        <h2>It's like fantastic<h2>
+        <h2>It's like fantastic<h2>l
   </head>
 </html>
